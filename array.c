@@ -1,4 +1,4 @@
-// harshith
+// we are just testing
 #include <stdio.h>
 
 int array[100], position, c, n, m, ele, selection;
